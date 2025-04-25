@@ -57,6 +57,7 @@ These are shown using **KPI cards** for quick business overview.
 ## 🛠 Tools Used
 
 - **Tableau Desktop**
+- https://public.tableau.com/app/profile/anirban.kar2878/viz/SalesDashboard_17455923639500/Dashboard1?publish=yes
 - **Dataset Format**: CSV
 
 ---
